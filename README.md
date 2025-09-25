@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @RKMAmogh
-- 👀 I’m interested in games.
-- 🌱 I’m currently learning more abt c++,python,java
-- 📫 can use my github scc. only to reach me out an i feel your project has got smth i would like to join. 
+# 👋 Hi, I’m Amogh Misra (@RKMAmogh)
 
-<!---
-RKMAmogh/RKMAmogh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **Interests:** AI, Finance, and Software Development  
+- 🌱 **Currently Learning:** C++, Python, Java, AI/ML frameworks  
+- 💻 **Projects:** Check out my work on [GitHub](https://github.com/RKMAmogh) — I focus on AI-driven projects, automation, and finance tools  
+- 📫 **Reach Me:** Feel free to connect via GitHub if your project aligns with my skills; I love contributing to meaningful projects  
+
+---
+
+✨ I’m passionate about **learning fast, building impactful projects, and collaborating with like-minded developers**.  
+
